@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Card.uss?fileID=7433441132597879392&amp;guid=cf059917f045a4911a3625c7a8c8f5f2&amp;type=3#Card" />
+    <ui:VisualElement name="Root" class="card">
+        <ui:VisualElement name="Line" class="line" />
+        <ui:VisualElement name="Thumbnail" style="background-color: rgba(0, 0, 0, 0); background-image: url(&apos;project://database/Assets/Textures/boy1.png?fileID=2800000&amp;guid=d9b546f8a9aa9437ca414f6390e44bcd&amp;type=3#boy1&apos;); width: 140px; height: 140px; margin-left: 35px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px; border-top-left-radius: 70px; border-bottom-left-radius: 70px; border-top-right-radius: 70px; border-bottom-right-radius: 70px;" />
+        <ui:VisualElement name="TextArea" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); justify-content: center; -unity-font-definition: url(&apos;project://database/Assets/Fonts/Roboto-Regular%20SDF.asset?fileID=11400000&amp;guid=a16fae9d156e1459b80a5be425d07dd9&amp;type=2#Roboto-Regular SDF&apos;);">
+            <ui:Label tabindex="-1" text="Name" display-tooltip-when-elided="true" name="Name" style="font-size: 32px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+            <ui:Label tabindex="-1" text="The quick brown fox jumps over the lazy dog." display-tooltip-when-elided="true" name="Description" style="font-size: 24px; color: rgb(255, 255, 255); white-space: normal;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

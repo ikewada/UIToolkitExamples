@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d5f6d57f4c794b318ecbcfffe47fa9a, type: 3}
+  m_Name: Girl
+  m_EditorClassIdentifier: 
+  characterName: Girl
+  description: A vibrant and imaginative 11-year-old girl who radiates enthusiasm
+    and a love for life.
+  thumbnail: {fileID: 2800000, guid: 157dddad884ef44b1b5c98da093021dc, type: 3}

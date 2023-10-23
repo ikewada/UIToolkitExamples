@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row; align-items: center; justify-content: space-evenly;">
+        <UIToolkitExamplesC.Card card-definition="project://database/Assets/Scripts/Boy.asset?fileID=11400000&amp;guid=aeb7436da09cf4698a6f90ab6b8bf2a4&amp;type=2#Boy" />
+        <UIToolkitExamplesC.Card card-definition="project://database/Assets/Scripts/Girl.asset?fileID=11400000&amp;guid=d11875920864d4b4598fe60dcfd60547&amp;type=2#Girl" />
+    </ui:VisualElement>
+</ui:UXML>
